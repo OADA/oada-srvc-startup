@@ -26,6 +26,7 @@
     "bluebird": "^3.5.0",
     "debug": "^2.6.6",
     "express": "^4.15.2",
-    "oada-lib-arangodb": "github:oada/oada-lib-arangodb"
+    "oada-lib-arangodb": "github:oada/oada-lib-arangodb",
+    "oada-lib-config": "github:oada/oada-lib-config"
   }
 }
